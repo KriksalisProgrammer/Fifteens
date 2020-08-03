@@ -10,7 +10,7 @@ namespace Fifteen
     {
         Point Empty;
         ArrayList image = new ArrayList();
-        
+        int arrr1=default;
         int Counters;
         public Form1()
         {
