@@ -11,6 +11,7 @@ namespace Fifteen
         Point Empty;
         ArrayList image = new ArrayList();
         int arrr1=default;
+        decimal d = default;
         int Counters;
         public Form1()
         {
